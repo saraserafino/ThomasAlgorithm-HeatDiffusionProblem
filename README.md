@@ -1,6 +1,6 @@
 # Thomas Algorithm for heat diffusion problem
 
-The instructions for this exam project can be found [here](https://github.com/pcafrica/advanced_programming_2023-2024/blob/main/exams/2024-02-13/part2.md) or in the previous folder.
+The instructions for this exam project can be found in the [Thomas Algorithm for heat diffusion problem](https://github.com/saraserafino/ThomasAlgorithm-HeatDiffusionProblem/blob/main/Thomas%20Algorithm%20for%20heat%20diffusion%20problem.md) markdown documentation.
 
 ## Code organization
 A module called moduleH is created using the header, template and source files in the folder MatrixModule; the main file is in the folder called main; a CMake and a setup.py are provided and will be explained later on. When executing the main, a folder `images` containing a plot is created.
